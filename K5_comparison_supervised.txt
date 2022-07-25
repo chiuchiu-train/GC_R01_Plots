@@ -1,1 +1,0 @@
-../STEP7_COMPARE_GRCH37_HG38/K5_comparison_supervised.txt
